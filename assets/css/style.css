@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+section {
+    min-height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.bchd{
+background-color: #F5F5F6;
+}
+.do {
+    font-family: DM Sans;
+    font-size: 42px;
+    line-height: 52px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: center;
+    color: #1E0E62;
+    margin-bottom: 67px;
+    ;
+}
+
+.plans {
+
+    font-family: DM Sans;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #1E0E62;
+    margin-bottom: 7.2px;
+}
+
+.para {
+    font-family: DM Sans;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #1E0E62;
+}
+
+.container {
+    max-width: 1140px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fill {
+
+    border: 2px solid #EBEAED;
+    border-spacing: 0px;
+    padding-top: 30.2px;
+    padding-bottom: 26.6px;
+    padding-left: 46px;
+    padding-right: 46px;
+
+}
+
+.blank {
+    border: 2px solid #EBEAED;
+    border-spacing: 0px;
+    padding-left: 275px;
+    padding-top: 140px;
+}
+
+.price {
+    font-family: DM Sans;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-align: right;
+    padding-top: 65px;
+    padding-right: 23px;
+    padding-bottom: 65px;
+    color: #15143966;
+}
+
+td {
+    border: 2px solid #EBEAED;
+}
+
+.tdp {
+    position: relative;
+
+}
+
+.dolor {
+    position: absolute;
+    font-family: DM Sans;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #1E0E62;
+    top: 20%;
+    left: 100px;
+}
+
+.pp {
+    font-family: DM Sans;
+    font-size: 58px;
+    line-height: 70px;
+    letter-spacing: -1px;
+    text-align: center;
+    color: #1E0E62;
+    ;
+}
+
+.hosted {
+    font-family: DM Sans;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-align: right;
+    padding-top: 21px;
+    padding-bottom: 11px;
+    padding-right: 23px;
+    color: #15143966;
+}
+
+.unlimited {
+    font-family: DM Sans;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #1E0E62;
+}
+
+.uncheckbox {
+    width: 20px;
+    height: 20px;
+    background-color: #EBEAED;
+    margin: auto;
+    border-radius: 6px;
+
+}
+
+.ckeckbox {
+    width: 20px;
+    height: 20px;
+    background-color: #25DAC5;
+    margin: auto;
+    border-radius: 6px;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.bone {
+    width: 230px;
+    height: 50px;
+    top: 910px;
+    left: 436px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: #1E0E62;
+    border-radius: 100px;
+    margin-top: 39px;
+    margin-right: 28px;
+    margin-bottom: 40px;
+    margin-left: 26px;
+    background-color: #ffff;
+    border: 2px solid #EBEAED;
+
+}
+.btwo{
+    width: 230px;
+        height: 50px;
+        top: 910px;
+        left: 436px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: DM Sans;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 26px;
+        text-align: center;
+        color: white;
+        border-radius: 100px;
+        margin-top: 39px;
+        margin-right: 28px;
+        margin-bottom: 40px;
+        margin-left: 26px;
+        background-color: #25DAC5;
+        border: 2px solid #25DAC5;
+}
